@@ -35,6 +35,7 @@ td {
   background: linear-gradient(135deg,  #9502cc 0%,#ff8f00 100%);
   font-family: fantasy;
   font-size: 30px;
+  color: white;
 }
 
 #start,
@@ -50,6 +51,7 @@ td {
   margin: 20px auto;
   box-shadow: 0 4px 32px -4px black;
   cursor: pointer;
+  color: white;
 }
 
 #start-again {
