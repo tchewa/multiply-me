@@ -48,7 +48,7 @@ td {
   background: -webkit-linear-gradient(-45deg,  #6a0092 0%,#d87900 100%);
   background: linear-gradient(135deg,  #6a0092 0%,#d87900 100%);
   display: block;
-  margin: 20px auto;
+  margin: 20px auto 60px;
   box-shadow: 0 4px 32px -4px black;
   cursor: pointer;
   color: white;
